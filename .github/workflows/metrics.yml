@@ -1,4 +1,4 @@
-name: Metrics
+name: GitHub Metrics
 
 on:
   schedule:
@@ -15,28 +15,52 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: XeAqdas
+          filename: github-metrics.svg
 
+          # Theme
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
 
           config_timezone: Asia/Kolkata
 
+          # Languages
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
+          plugin_languages_details: percentage
+          plugin_languages_analysis_timeout: 15
 
+          # Achievements
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: no
+          plugin_achievements_display: compact
+
+          # Calendar
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
+          # Coding Habits
+          plugin_habits: yes
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+
+          # Repositories
+          plugin_repositories: yes
+          plugin_repositories_featured: 6
+
+          # Topics
+          plugin_topics: yes
+          plugin_topics_limit: 15
+
+          # Follow-up
           plugin_followup: yes
 
-          plugin_achievements: yes
-
-          plugin_topics: yes
-
-          plugin_topics_limit: 20
-
+          # Stars
           plugin_stars: yes
+
+          # Lines of code
+          plugin_lines: yes
