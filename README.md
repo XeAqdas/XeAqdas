@@ -179,31 +179,17 @@ Conducted rigorous healthcare data analysis and predictive modeling to highlight
 
 ---
 
-## ◈ GitHub Analytics
+---
+
+## ◈ Developer Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XeAqdas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XeAqdas&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7" alt="GitHub Streak" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeAqdas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" width="60%" />
+
+<img src="https://raw.githubusercontent.com/XeAqdas/XeAqdas/main/github-metrics.svg" width="100%" alt="GitHub Metrics"/>
+
 </div>
 
 ---
-
-## ◈ GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XeAqdas&theme=tokyonight&column=7&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
-## ◈ Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XeAqdas&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&hide_title=true" alt="Contribution Activity Graph" width="100%" />
-</div>
-
 ---
 
 ## ◈ Contribution Snake
