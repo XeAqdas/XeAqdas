@@ -158,23 +158,23 @@ Conducted rigorous healthcare data analysis and predictive modeling to highlight
 ## ◈ Certifications
 
 #### Oracle
-<img src="https://img.shields.io/badge/Oracle%20-%20Cloud_Infrastructure_2025_Certified_AI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle AI Foundations" />
+<img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%202025%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle AI Foundations" />
 
 #### Cisco
-<img src="https://img.shields.io/badge/Cisco%20-%20Data_Science_Essentials_With_Python-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Data Science" />
+<img src="https://img.shields.io/badge/Cisco-Data%20Science%20Essentials%20With%20Python-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Data Science" />
 
 #### Simplilearn
-<img src="https://img.shields.io/badge/Simplilearn%20-%20Front_End_Development-0055FF?style=for-the-badge&logoColor=white" alt="Simplilearn Frontend" />
+<img src="https://img.shields.io/badge/Simplilearn-Front%20End%20Development-0055FF?style=for-the-badge&logoColor=white" alt="Simplilearn Frontend" />
 
 ---
 
 ## ◈ Coding Profiles
 
 <div align="center">
-  <a href="https://leetcode.com/XeAqdas"><img src="https://img.shields.io/badge/LeetCode%20-%20XeAqdas-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://hackerrank.com/XeAqdas"><img src="https://img.shields.io/badge/HackerRank%20-%20XeAqdas-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="https://leetcode.com/XeAqdas"><img src="https://img.shields.io/badge/LeetCode-XeAqdas-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://hackerrank.com/XeAqdas"><img src="https://img.shields.io/badge/HackerRank-XeAqdas-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
   <br/>
-  <a href="https://kaggle.com/XeAqdas"><img src="https://img.shields.io/badge/Kaggle%20-%20XeAqdas-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://kaggle.com/XeAqdas"><img src="https://img.shields.io/badge/Kaggle-XeAqdas-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 </div>
 
 ---
@@ -182,10 +182,10 @@ Conducted rigorous healthcare data analysis and predictive modeling to highlight
 ## ◈ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XeAqdas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&icon_color=8B5CF6&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=XeAqdas&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XeAqdas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XeAqdas&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7" alt="GitHub Streak" width="48%" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeAqdas&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeAqdas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" width="60%" />
 </div>
 
 ---
@@ -216,18 +216,31 @@ Conducted rigorous healthcare data analysis and predictive modeling to highlight
 
 ## ◈ Current Focus
 
-```yaml
-profile_status:
-  learning:
-    - Advanced Machine Learning Algorithms
-    - Deep Learning & Neural Networks
-  building:
-    - Automated Smart Attendance System
-    - Jarvis AI Voice Assistant
-  exploring:
-    - Predictive Statistical Modeling
-    - Data Visualizations & Analytics
-  open_to:
-    - Data Science Internships
-    - Machine Learning Engineering Roles
-    - Python & SQL Development Opportunities
+<div align="center">
+
+### 📚 Learning
+
+![](https://img.shields.io/badge/Advanced_Machine_Learning-7E22CE?style=for-the-badge)
+![](https://img.shields.io/badge/Deep_Learning-5B21B6?style=for-the-badge)
+![](https://img.shields.io/badge/Neural_Networks-4C1D95?style=for-the-badge)
+<br>
+
+### 🚀 Building
+
+![](https://img.shields.io/badge/Smart_Attendance_System-7E22CE?style=for-the-badge)
+![](https://img.shields.io/badge/Jarvis_AI_Assistant-5B21B6?style=for-the-badge)
+<br>
+
+### 🔬 Exploring
+
+![](https://img.shields.io/badge/Predictive_Modeling-7E22CE?style=for-the-badge)
+![](https://img.shields.io/badge/Data_Visualization-5B21B6?style=for-the-badge)
+<br>
+
+### 💼 Open To
+
+![](https://img.shields.io/badge/Data_Science_Internships-7E22CE?style=for-the-badge)
+![](https://img.shields.io/badge/Machine_Learning_Roles-5B21B6?style=for-the-badge)
+![](https://img.shields.io/badge/Python_&_SQL-4C1D95?style=for-the-badge)
+
+</div>
